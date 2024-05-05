@@ -56,5 +56,6 @@ This project consists of several tasks aimed at implementing shell scripts to de
 - **Shell, I/O Redirection:** Read or watch materials on shell I/O redirection.
 - **Special Characters:** Understand the role of special characters in shell scripting.
 
-## Implementado por
-Xavier J. Cruz
+## Implemented by
+Xavier J. Cruz (based on content by Julien Barbier)
+
