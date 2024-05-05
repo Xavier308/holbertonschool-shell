@@ -27,7 +27,7 @@ This project, authored by Julien Barbier, delves into shell initialization files
 ## Tasks
 This project comprises several tasks aimed at implementing shell scripts to demonstrate understanding of initialization files, variables, expansions, and aliases in Linux shell scripting. Each task is detailed with specific requirements and examples.
 
-1. '<o>'
+1. alias
 2. Hello you
 3. The path to success is to take massive, determined action
 4. If the path be beautiful, let us not ask where it leads
