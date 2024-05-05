@@ -1,4 +1,4 @@
-# Shell, Init Files, Variables, and Expansions - Amateur
+# Shell, Init Files, Variables, and Expansions
 
 ## Overview
 This project, authored by Julien Barbier, delves into shell initialization files, variables, expansions, and aliases in Linux shell scripting. You'll learn about setting up environment variables, creating aliases, understanding different types of variables, and performing arithmetic operations within the shell.
